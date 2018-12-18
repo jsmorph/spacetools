@@ -1,4 +1,4 @@
-# Simple tool to obtain some ocurrent geomagnetic data
+# Simple tool to obtain some current geomagnetic data
 
 Gets
 [NOAA's recent Space Weather Conditions](https://www.swpc.noaa.gov/products/planetary-k-index) and
