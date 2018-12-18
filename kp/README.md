@@ -1,8 +1,8 @@
 # Simple tool to obtain some ocurrent geomagnetic data
 
-Get [NOAA's recent Space Weather Conditions](https://www.swpc.noaa.gov/products/planetary-k-index).
-
-![current conditions](https://services.swpc.noaa.gov/images/planetary-k-index.gif)
+Gets
+[NOAA's recent Space Weather Conditions](https://www.swpc.noaa.gov/products/planetary-k-index) and
+returns it as JSON.
 
 ## Building
 
